@@ -1,5 +1,5 @@
 #include <stdio.h>
-#define LEN 100
+#define LEN 50
 
 int main()
 {
